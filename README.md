@@ -1,6 +1,6 @@
 - Hi, I’m @ercantomac
 - I’m interested in mobile and web development, also casual game development.
-- I’m currently learning mainly Flutter & its ecosystem.
+- I’m currently learning Flutter & its ecosystem.
 - How to reach me: tmc.ercan@gmail.com
 
 <!---
